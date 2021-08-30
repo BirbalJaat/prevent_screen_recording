@@ -89,7 +89,7 @@ packages:
     source: hosted
     version: "1.8.0"
   prevent_screen_recording:
-    dependency: "direct main"
+    dependency: "direct dev"
     description:
       path: ".."
       relative: true
