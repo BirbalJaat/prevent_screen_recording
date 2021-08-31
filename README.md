@@ -56,7 +56,9 @@ preventScreenRecording.dispose();
 
 Please [**file**](https://github.com/BirbalJaat/prevent_screen_recording/issues) issues to send feedback or report a bug. Thank you !
 
+## Author
 
+- [Birbal Jaat](https://github.com/BirbalJaat) • <birbalkhichar@gmail.com>
 
 ## License
 
