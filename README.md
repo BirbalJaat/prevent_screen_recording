@@ -1,7 +1,7 @@
 Prevent Screen Recording in iOS Flutter App
 Flutter plugin that allows you to detect mobile recording and execute callback functions on iOS . 🚀
  
-Usage • Issues and Feedback • Author • License
+Usage
 
 Feedback welcome and Pull Requests are most welcome!
 
