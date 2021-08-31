@@ -3,12 +3,6 @@
   Flutter plugin that allows you to detect mobile recording and execute callback functions on iOS 🚀
 </h4>
 
-<div align="center">
-  <a href="https://pub.dev/packages/prevent_screen_recording/install">
-    <img src="https://img.shields.io/pub/v/screenshot_callback.svg" />
-  </a>
-</div>
-
 <p align="center">
   <a href="#usage">Usage</a> •
   <a href="#issues-and-feedback">Issues and Feedback</a> •
@@ -38,7 +32,7 @@ Initialize PreventScreenRecording with the scopes you want:
 PreventScreenRecording preventScreenRecording = PreventScreenRecording();
 ```
 
-### addListener
+### addListner
 
 Then invoke <code>addListner</code> method of <code>PreventScreenRecording</code>.
 Add custom functions that you want to excute after detect recording. e.g:
